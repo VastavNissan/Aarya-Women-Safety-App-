@@ -1,7 +1,7 @@
 <h1 align ="center"> :information_desk_person: Aarya - Women Safety App </h1>
 <h3 align ="center"> Women, if the soul of the nation is to be saved, I believe you must become its soul. ~Coretta Scott King</h3>
 
-![s](https://user-images.githubusercontent.com/88283180/170037154-7d40161d-0fd7-4e7d-90e4-b1bed4c93f5f.jpg)
+![s](https://user-images.githubusercontent.com/88283180/170037154-7d40161d-0fd7-4e7d-90e4-b1bed4c93f5f.jpg = 250x250)
 
 
 Aarya is an android women safety app that allows the user to use variety of safety features in distress situations.
